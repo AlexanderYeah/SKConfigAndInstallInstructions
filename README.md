@@ -5,3 +5,11 @@ Make it easy to config development environment
   
 * 2 使用命令行远程登录云服务器操作 --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/remoteServer.md)
 * 3 Mac 获取公钥配置github 账户 ---> [机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/geneKeyToConnectGit.md)
+* 4 centOS 安装Apache --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/centOS_install_apache.md)
+
+* 5 centOS 安装Mysql --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/centOS_install_mysql.md)
+
+* 6 centOS 安装FTP --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/centOS_install_ftp.md)
+
+* 7 终端远程FTP连接 --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/use_ftp.md)
+
