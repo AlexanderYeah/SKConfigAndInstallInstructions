@@ -20,6 +20,8 @@
 
 修改如下内容：禁止匿名用户登录，不可以让 ftp 用户跳出自己的家目录（前两项修改，最后一项新增
 
+> vi /etc/vsftpd/vsftpd.conf
+
 > anonymous_enable=NO  
 
 > chroot_local_user=YES  
