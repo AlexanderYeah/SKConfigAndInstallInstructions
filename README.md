@@ -13,3 +13,5 @@ Make it easy to config development environment
 
 * 7 终端远程FTP连接 --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/use_ftp.md)
 
+* 8 CentOS 搭建AMP --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/centOS_Apache_Mysql_PhpMyAdmin.md)
+
