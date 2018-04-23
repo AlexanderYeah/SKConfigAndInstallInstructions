@@ -16,4 +16,10 @@ Make it easy to config development environment
 * 8 CentOS 搭建AMP --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/centOS_Apache_Mysql_PhpMyAdmin.md)
 
 
-* 9 查看进程端口信息 --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/%E6%9F%A5%E7%9C%8B%E8%BF%9B%E7%A8%8B%E7%AB%AF%E5%8F%A3.md)
+* 9 查看进程端口信息 --->[机票✈️✈️✈️](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/%E6%9F%A5%E7%9C%8B%E8%BF%9B%E7%A8%8B%E7%AB%AF%E5%8F%A3.md)  
+
+
+* 10 windows 安装Apache --->[机票✈️✈️✈️](
+https://github.com/AlexanderYeah/SKConfigAndInstallInstructions/blob/master/windows_install_apache.md)  
+
+
